@@ -538,6 +538,14 @@ header .container nav .form i{
     text-transform: uppercase;
     border: none;
 }
+@media(max-width: 767px){
+    .video .text h2{
+        margin-bottom: 20px;
+    }
+    .video .text p{
+        margin-bottom: 20px;
+    }
+}
 /* End Video */
 
 /* Start About */
